@@ -1,0 +1,9 @@
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\MorzeFordito1\bin\Release\MorzeFordito1.exe.config
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\MorzeFordito1\bin\Release\MorzeFordito1.exe
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\MorzeFordito1\bin\Release\MorzeFordito1.pdb
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\MorzeFordito1\obj\Release\MorzeFordito1.Form1.resources
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\MorzeFordito1\obj\Release\MorzeFordito1.Properties.Resources.resources
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\MorzeFordito1\obj\Release\MorzeFordito1.csproj.GenerateResource.cache
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\MorzeFordito1\obj\Release\MorzeFordito1.csproj.CoreCompileInputs.cache
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\MorzeFordito1\obj\Release\MorzeFordito1.exe
+C:\Users\Turby\Desktop\Visual Studio Projects\Projects\MorzeFordito1\obj\Release\MorzeFordito1.pdb
